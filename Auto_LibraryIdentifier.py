@@ -8,14 +8,14 @@ import sys
 # ---------------------------------------------------------------
 LIB_PATHS = {
     "RAK": "/tech/libraries/RAK_LIBS/lib/max/slow.lib",                        
-    "NANGATE": "/tech/libraries/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Liberty/CCS/NangateOpenCellLibrary_slow_ccs.lib",
-    "Skywater": "/tech/libraries/sky130_fd_sc_ms/Liberty",
-    "rf_2p_136d_74w_1m_4b": "/tech/designs/cpu_sys/dummyNL4KLE_tech/memories/rf_2p_136d_74w_1m_4b.lib",
-    "rf_2p_256d_76w_1m_4b": "/tech/designs/cpu_sys/dummyNL4KLE_tech/memories/rf_2p_256d_76w_1m_4b.lib",
-    "rf_2p_512d_76w_2m_4b": "/tech/designs/cpu_sys/dummyNL4KLE_tech/memories/rf_2p_512d_76w_2m_4b.lib",
-    "sram_sp_512d_32w_4m_2b": "/tech/designs/cpu_sys/dummyNL4KLE_tech/memories/sram_sp_512d_32w_4m_2b.lib",
-    "sram_sp_16384d_36w_16m_8b": "/tech/designs/cpu_sys/dummyNL4KLE_tech/memories/sram_sp_16384d_36w_16m_8b.lib",
-    "sram_sp_32768d_33w_16m_8b": "/tech/designs/cpu_sys/dummyNL4KLE_tech/memories/sram_sp_32768d_33w_16m_8b.lib"
+    "NANGATE": "give path of your standard cell libraries,
+    "Skywater": "give path of your standard cell libraries,
+    "rf_2p_136d_74w_1m_4b": "/give path of your standard cell libraries,
+    "rf_2p_256d_76w_1m_4b": "give path of your standard cell libraries",
+    "rf_2p_512d_76w_2m_4b": "/give path of your standard cell libraries",
+    "sram_sp_512d_32w_4m_2b": "/give path of your standard cell libraries",
+    "sram_sp_16384d_36w_16m_8b": "/give path of your standard cell libraries",
+    "sram_sp_32768d_33w_16m_8b": "give path of your standard cell libraries"
 }
 
 # ---------------------------------------------------------------

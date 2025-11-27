@@ -11,7 +11,7 @@ LIB_PATHS = {
     "NANGATE": "give path of your standard cell libraries,
     "Skywater": "give path of your standard cell libraries,
     "rf_2p_136d_74w_1m_4b": "/give path of your standard cell libraries,
-    "rf_2p_256d_76w_1m_4b": "give path of your standard cell libraries",
+    "rf_2p_256d_76w_1m_4b": "give path of your standard cell libraries", 
     "rf_2p_512d_76w_2m_4b": "/give path of your standard cell libraries",
     "sram_sp_512d_32w_4m_2b": "/give path of your standard cell libraries",
     "sram_sp_16384d_36w_16m_8b": "/give path of your standard cell libraries",
